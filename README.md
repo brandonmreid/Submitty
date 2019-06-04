@@ -39,6 +39,4 @@ If you have a question or would like access to our demo site, please contact us 
 
 ### LICENSING
 Submitty is licensed under BSD "3-Clause" which can be viewed in [LICENSE](LICENSE.md)  
-Licenses for the 3rd party components can be viewed in [LICENSE-THIRD-PARTY](LICENSE-THIRD-PARTY.md) g
-
-"# Star-gazer" 
+Licenses for the 3rd party components can be viewed in [LICENSE-THIRD-PARTY](LICENSE-THIRD-PARTY.md)
